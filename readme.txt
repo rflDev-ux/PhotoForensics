@@ -3,6 +3,10 @@
         INSTRUCTIONS FOR USE THIS TOOL
 
 
+pkg update && pkg upgrade -y ; pkg install python exiftool -y ; pip install --upgrade pillow ; termux-setup-storage
+
+______________________________________
+
 * run python run.py
 * choose num 1
 * Find where you saved the folder containing the photos
@@ -10,5 +14,5 @@
 * and boom!! you got it
 
      
-      WARNING!!! DO NOT USE THIS TOOL TO STALK OTHER PEOPLE!!
-              I am not responsible for your action!
+      WARNING!!! DO NOT USE THIS TOOL            TO STALK OTHER PEOPLE!! 
+I am not responsible for your action!
